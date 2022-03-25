@@ -2960,7 +2960,9 @@
                     var e;
                     return e = t, t.prototype.transform = function(t) {
                         if (!t) return t;
-                        if ("string" != typeof t) throw function(t, e) { return Error("InvalidPipeArgument: '" + e + "' for pipe '" + ft(t) + "'") }(e, t);
+                        if ("string" != typeof t) throw
+
+                        function(t, e) { return Error("InvalidPipeArgument: '" + e + "' for pipe '" + ft(t) + "'") }(e, t);
                         return t.toUpperCase()
                     }, t
                 }(),
