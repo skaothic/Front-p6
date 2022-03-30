@@ -8067,7 +8067,7 @@
                 xv = Kn({
                     encapsulation: 0,
                     styles: [
-                        ["form[_ngcontent-%COMP%]{margin:2em auto;max-width:750px}.heat-range[_ngcontent-%COMP%]{width:60%;display:block}.heat-container[_ngcontent-%COMP%]{display:flex}.heat-reading[_ngcontent-%COMP%]{width:5em;margin-left:1.5em;background-color:#fff}input[type=file][_ngcontent-%COMP%]{class=simple-file-upload display:none}"]
+                        ["form[_ngcontent-%COMP%]{margin:2em auto;max-width:750px}.heat-range[_ngcontent-%COMP%]{width:60%;display:block}.heat-container[_ngcontent-%COMP%]{display:flex}.heat-reading[_ngcontent-%COMP%]{width:5em;margin-left:1.5em;background-color:#fff}input[type=file][_ngcontent-%COMP%]{display:none}"]
                     ],
                     data: {}
                 });
