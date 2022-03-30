@@ -8427,7 +8427,7 @@
                 ], null, null, null, null, null)), (t()(), Li(10, 0, null, null, 1, "div", [
                     ["class", "logo-image"]
                 ], null, null, null, null, null)), (t()(), Li(11, 0, null, null, 0, "img", [
-                    ["src", "../../p6/assets/images/flame.png"]
+                    ["src", "../../Front-p6/assets/images/flame.png"]
                 ], null, null, null, null, null)), (t()(), Li(12, 0, null, null, 4, "div", [
                     ["class", "logo-text"]
                 ], null, null, null, null, null)), (t()(), Li(13, 0, null, null, 1, "h1", [], null, null, null, null, null)), (t()(), Ji(-1, null, [" HOT TAKES "])), (t()(), Li(15, 0, null, null, 1, "h5", [], null, null, null, null, null)), (t()(), Ji(-1, null, [" THE WEB'S BEST HOT SAUCE REVIEWS "])), (t()(), Li(17, 0, null, null, 10, "div", [
